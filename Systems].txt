@@ -1,0 +1,37 @@
+﻿All Systems Within the Seed
+
+First — Core System
+This system stores all essential information, including the player profile, instructions, goals, and historical progress data. It acts as the memory and reference point for all other systems.
+
+Second — Growth System
+This system takes the player’s main objective and breaks it down into smaller, manageable daily quests. These quests are generated based on the player’s past behavior, current situation, and desired outcome.
+
+Third — Player Vitals Tracker
+This system tracks the player’s mental and physical condition. The player logs factors such as eating, drinking, hygiene, and sleep. If any vital drops too low, all current quests are paused and replaced with recovery-focused quests until stability is restored.
+
+Fourth — Progression Tracker
+This system evaluates performance and generates daily and weekly summaries. It highlights consistency, improvement, and overall direction rather than just raw completion.
+
+Fifth — Quest Difficulty Scaling
+Quest difficulty adjusts dynamically based on the player’s vitals and their current stage within their main objective. When energy or stability is low, quests become simpler; when conditions improve, quests gradually increase in challenge.
+
+Sixth — Daily Operation Loop
+At the start of each day, the player provides the system with their current energy level, schedule, and required real-world tasks. Using this information, the system generates a set of daily quests that fit realistically within the player’s day. At the end of the day, progress is reviewed and logged.
+
+Secondary Systems (Activated After Core Gameplay Is Stable)
+
+Seventh — Expansion System
+This system allows optional connections to external tools such as heart-rate monitors, sleep trackers, timers, or other supportive devices. These integrations enhance accuracy but are not required.
+
+Eighth — Reward and Consequence System
+This system manages feedback for player actions. Quest completion and consistent progress are rewarded through verbal feedback, titles, achievements, and an in-game currency called Soils.
+If a quest is not completed, the player receives a strike. After three strikes, the current completion streak resets. Any previously earned consistency bonuses are granted, but no rewards are given for the failed quest, and bonus progress resets.
+
+Ninth — Seedling
+The Seedling is the in-game character that represents the player. It serves as a visual reflection of progress and can be customized using in-game currency.
+
+Tenth — Jardinière
+The Jardinière is the Seedling’s base. Players can use in-game currency to upgrade and customize it as a representation of long-term progress and consistency.
+
+Eleventh — Farmer’s Market
+This is the space where players spend in-game currency on cosmetic items, upgrades, and visual indicators of progress. These purchases do not affect real-world difficulty and exist to reinforce motivation and identity.
